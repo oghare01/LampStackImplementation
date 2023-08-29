@@ -8,4 +8,8 @@
 
 ![EC2 connected successfuly](https://github.com/oghare01/LampStackImplementation/assets/141191975/41da4497-23c5-4884-bf19-4c3d651fb6db)
 
-3. Next, I installed Apache web server 
+3. Next, I installed Apache web server and confirmed that is was running successfully. The test revealed that Apache was up and running as displayed in the following image.
+
+![Apache up and running](https://github.com/oghare01/LampStackImplementation/assets/141191975/e407acbb-4687-415a-afed-4e1d781032c2)
+
+4. 
