@@ -24,4 +24,8 @@
 
 ![Mysql installed and running](https://github.com/oghare01/LampStackImplementation/assets/141191975/e134ddf4-2a86-4507-9454-0ee10bab1b70)
 
-7. 
+7. I changed the password and exited mysql
+
+![mysql password changed and exited ](https://github.com/oghare01/LampStackImplementation/assets/141191975/4860f0ef-c0fc-424c-b9e8-78a20b784caf)
+
+8. 
