@@ -20,4 +20,8 @@
 
 ![public address works!](https://github.com/oghare01/LampStackImplementation/assets/141191975/41f98f07-e35f-466e-a009-e597166e0852)
 
-6. 
+6. Mysql was installed and tested. Th result showed that mysql was properly installed and running
+
+![Mysql installed and running](https://github.com/oghare01/LampStackImplementation/assets/141191975/e134ddf4-2a86-4507-9454-0ee10bab1b70)
+
+7. 
