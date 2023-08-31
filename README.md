@@ -28,4 +28,22 @@
 
 ![mysql password changed and exited ](https://github.com/oghare01/LampStackImplementation/assets/141191975/4860f0ef-c0fc-424c-b9e8-78a20b784caf)
 
-8. 
+8. I validated the password for mysql server
+
+![Password validation](https://github.com/oghare01/LampStackImplementation/assets/141191975/c3662429-d11e-4c32-8b9d-66fce737ed2e)
+
+9. PHP was successfully installed and the version was checked using the php -v command
+
+![php installed ](https://github.com/oghare01/LampStackImplementation/assets/141191975/eac4978e-4b59-49ad-a2b7-f891aa0dc5b9)
+
+10. The virtual host for the website was created as shown below
+
+![virtualhost created](https://github.com/oghare01/LampStackImplementation/assets/141191975/58364bed-ae72-4f8c-9ee2-a7eb6589511b)
+
+11. A new virtuall host was enable and the default website was disabled. The configuration test revelaed the below display
+
+![new virtual host enabled](https://github.com/oghare01/LampStackImplementation/assets/141191975/d7d3dcba-57cf-4b10-9ddc-7b01379f80e3)
+
+12. Apache2 was reloaded, the website was edited and when I reloaded it worked just fine
+
+![relaoded webpage](https://github.com/oghare01/LampStackImplementation/assets/141191975/d54372a7-dfe4-40a7-b3c2-d160c1d840c2)
